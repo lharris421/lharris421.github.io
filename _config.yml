@@ -48,7 +48,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: false
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: false
 bib_search: true
@@ -633,11 +633,7 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
   - volunteer
   - awards
-  - certificates
   - skills
-  - languages
   - interests
-  - references
