@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.public-health.uiowa.edu/biostat/'>University of Iowa, Department of Biostatistics</a>
-
+subtitle: 5th Year PhD Candidate, <a href='https://www.public-health.uiowa.edu/biostat/'>Department of Biostatistics</a>, University of Iowa
 profile:
   align: right
   image: prof_pic.jpg
@@ -26,4 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Stuff about me....
+I am a 5th year PhD candidate at the University of Iowa in the Department of Biostatistics advised by <a href='https://myweb.uiowa.edu/pbreheny/'>Patrick Breheny</a>.
+
+My dissertation research focuses on confidence intervals construction for penalized regression models like lasso. Specifically, I see my research as an ode to the lasso. How? I am particularly interested in intervals that respect the original model fit. Many methods focus on debiasing, but this inherently requires ignoring the lasso penalty in one way or another. This requires a shift in perspective, and if you are interested in hearing more, a paper is in submission and I will make it available here as soon as I can. Or, if you have thoughts or questions, don't hesitate to email me!
+
+In my spare time you can find me outside. I'm either at the park with my two dog-hters, backpacking with my wife (and dog-hters), or running somewhere lost on a trail.
