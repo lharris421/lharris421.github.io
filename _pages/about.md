@@ -6,7 +6,7 @@ subtitle: <a href='https://www.public-health.uiowa.edu/biostat/'>University of I
 
 profile:
   align: right
-  image: outside_headshot.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>logan-harris@uiowa.edu</p>
