@@ -65,6 +65,11 @@ ninja.data = [{
           description: "ENAR 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-logan-harris-prospectus",
+          title: 'Logan Harris Prospectus',
+          description: "Univerity of Iowa, Department of Biostatistics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{
         id: 'social-github',
         title: 'GitHub',
